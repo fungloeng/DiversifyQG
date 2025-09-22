@@ -1,2 +1,6 @@
 output_WQ/*
-
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
